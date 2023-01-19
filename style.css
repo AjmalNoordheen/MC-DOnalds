@@ -1,0 +1,50 @@
+
+.image1{
+    margin-top : 100px 
+}
+.offer{
+    
+    font-size: 9px;
+}
+.freefries{
+    margin-top: 165px;
+}
+.dropdown-menu.show{
+    display: flex;
+    top: 58px;
+    
+}
+.dropdown-menu-1{
+    list-style: none;
+}
+.small{
+    
+     font-size: 10px; 
+}
+.latinos{
+    font-size: 15px;
+}
+.spotlight{
+    position: relative;
+    padding: 14px;
+    top:42px;
+}
+.scholorship{
+    padding: 14px;
+    padding-left: 30px;
+}
+.free{
+    margin-top: 130px;
+    
+}
+@media screen and (max-width:992px) {
+  .ajmal {
+    text-align: center;
+
+    }
+}
+@media (max-width:600px){ 
+    .footer-main a{ 
+        display:none; 
+    } 
+ } 
